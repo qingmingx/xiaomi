@@ -1,0 +1,18 @@
+*{
+	text-decoration: none;/* a标签身上的下划线 */
+	padding:0;/* 调整内容和字直接的距离 */
+	margin:0;/* boby 默认的8px */
+	list-style: none;/* 列表标签的样式 */
+	font-style: normal;/* 默认字体 */
+	font-style: normal;/* 自定义不显示默认样式 */
+	
+	-webkit-user-select: none;
+	/* -webkit 谷歌浏览器
+	兼容问题
+	根据浏览器添加 给浏览器内核做前缀 */
+	user-select: none;/* 标准语法 */
+}
+img{
+	width: 100%;
+	height: 100%;
+}
